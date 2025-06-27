@@ -1,0 +1,3 @@
+[submodule "MCItemViewer/submodules/MCLibs"]
+	path = MCItemViewer/submodules/MCLibs
+	url = https://github.com/SS634-rs/MCLibs.git

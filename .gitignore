@@ -404,3 +404,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# others
+icon/org/*
+res/org/*
+old/*
+work/*
+tool_settings.json
